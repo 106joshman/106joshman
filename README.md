@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 ## Hi ! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" /> My name is Joshua Ejembi
-=========================================================================================================================================
 
 MERN Stack Engineer
 -------------------
@@ -64,13 +63,9 @@ A Software Engineer that is currently in love with Next.js and Typescript. Love 
 
 <a href="http://www.github.com/106joshman">![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=106joshman&show_icons=true&bg_color=00000000)</a>
 
-<a href="http://www.github.com/106joshman">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=106joshman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=106joshman&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/106joshman">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=106joshman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=106joshman&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/106joshman" align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=106joshman&show_icons=true&bg_color=00000000)](https://github.com/106joshman/github-readme-stats)</a>
 
