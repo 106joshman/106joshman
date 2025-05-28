@@ -63,8 +63,6 @@ A Software Engineer that is currently in love with Next.js and Typescript. Love 
 
 <a href="http://www.github.com/106joshman">![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=106joshman&show_icons=true&bg_color=00000000)</a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=106joshman&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=106joshman&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/106joshman" align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=106joshman&show_icons=true&bg_color=00000000)](https://github.com/106joshman/github-readme-stats)</a>
